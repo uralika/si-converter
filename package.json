@@ -13,7 +13,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"exact-math": "^2.1.2",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"lodash": "^4.17.15",
 		"morgan": "^1.9.1",
 		"replace-string": "^3.0.0"
